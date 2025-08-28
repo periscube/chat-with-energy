@@ -16,8 +16,8 @@ We use GitHub Issues to track user stories and tasks. Each issue is categorized 
 
 The data pipeline is designed as a modern, multi-stage ELT (Extract, Load, Transform) process orchestrated by Apache Airflow.
 
+<img src="architecture.png" width="400" />
 
-./architecture.png
 *(You can create and upload a diagram image to your repo and link it here)*
 
 The data flow is as follows:
